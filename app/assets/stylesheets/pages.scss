@@ -1,0 +1,25 @@
+// Place all the styles related to the Pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+* {
+  margin: 0px;
+  padding: 0px;
+}
+html body {
+  font-family: "Open Sans";
+}
+.main {
+  background: url("https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1502&q=80")
+    no-repeat center center;
+  background-size: cover;
+  height: 100vh;
+  text-align: right;
+  .container {
+    position: relative;
+    top: 150px;
+    text-align: center;
+    margin-left: 10em;
+  }
+}
+.supportive {
+}
