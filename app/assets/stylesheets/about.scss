@@ -28,42 +28,9 @@ nav {
   }
 }
 
-.main {
+main {
   background: url("https://images.unsplash.com/photo-1520800168251-8d4e2b05a633?ixlib=rb-1.2.1&auto=format&fit=crop&w=1442&q=80")
     no-repeat center center;
   background-size: cover;
   height: 100vh;
-
-  .containeer {
-    position: relative;
-    top: 150px;
-    text-align: right;
-  }
-  #section1 {
-    margin-left: 40%;
-    text-align: center;
-    color: white;
-  }
-}
-
-.supportive {
-  margin-top: 5em;
-  text-align: center;
-  height: 40vh;
-}
-.secondary {
-  background: url("https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80")
-    no-repeat center center;
-  background-size: cover;
-  height: 80vh;
-}
-.discover {
-  height: 50vh;
-  text-align: center;
-  h1 {
-    margin-bottom: 1vh;
-  }
-  .discover-sub {
-    margin-top: 8em !important;
-  }
 }

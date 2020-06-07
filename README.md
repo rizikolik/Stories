@@ -1,24 +1,17 @@
-# README
+# Stories is a landing website and it uses Rails and Sass.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Used tools and technologies :
 
-Things you may want to cover:
+1. Ruby on Rails
+2. Javascript
+3. Bootstrap
+4. Sass
+5. Responsive web design
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+<p>
+Mobile 
+<image src="./app/assets/images/1.png"  />
+</p>
+<p>
+<image src="./app/assets/images/2.png" >
+ </p>
