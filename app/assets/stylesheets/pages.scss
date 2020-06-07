@@ -16,9 +16,10 @@
 html body {
   font-family: "Open Sans";
 }
-nav {
-  background: none !important;
-
+.navi {
+  .bg-light {
+    background: none !important;
+  }
   #navbarSupportedContent {
     a {
       color: white !important;
